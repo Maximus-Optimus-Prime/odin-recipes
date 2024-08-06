@@ -1,2 +1,6 @@
 # odin-recipes
-cookbook
+cookbook with air fryer
+3 recipes : 
+- chips
+- tandoori chicken
+- asparagus
